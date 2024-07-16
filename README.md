@@ -1,4 +1,4 @@
-To train a chatbot for youor own:
+To train a chatbot of your own:
 1. Replace the contents of new_intents.json with your desired data.
 2. Open spacy_train.py to train the model using new_intents.json file as a dataset.
 
@@ -19,5 +19,6 @@ If you wanna run this inference only:
 Note: After installing spacy install spacy english model using:
 python -m spacy download en_core_web_sm
 
-for pytorch with GPU install by going to pytorch site or by using pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118.
+For pytorch with GPU install by going to pytorch site or by using:
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118.
 P.S to use pytorch with GPU you need to have proper CUDA configuration.
