@@ -20,5 +20,6 @@ Note: After installing spacy install spacy english model using:
 python -m spacy download en_core_web_sm
 
 For pytorch with GPU install by going to pytorch site or by using:
+
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118.
 P.S to use pytorch with GPU you need to have proper CUDA configuration.
