@@ -4,6 +4,8 @@ To train a chatbot for youor own:
 
 
 ![image](https://github.com/user-attachments/assets/1afca348-82b7-4821-8de2-5eab0d6988d8)
+
+
 Once the model has been you will have files named classes.pkl,words.pkl,final_chatbot.pth,best_chatbot.pth.
 
 If you wanna run this inference only:
