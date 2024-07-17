@@ -6,8 +6,6 @@ import torch
 import torch.nn as nn
 import spacy
 import webbrowser
-from transformers import SpeechT5Processor, SpeechT5ForTextToSpeech, SpeechT5HifiGan
-from datasets import load_dataset
 import soundfile as sf
 import pyttsx3
 
